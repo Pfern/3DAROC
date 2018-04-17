@@ -5,13 +5,13 @@
 
 - [Course description](#course-description)
 - [Instructors](#instructors)
-- Target Audience
-  - Course Pre-requisites
-    - TADbit API
-    - TADbit tools
-    - Virtual research environment
-- Course Timetable (provisional)
-- Course material
+- [Target Audience](#target-audience)
+  - [Course Pre-requisites](#course-pre-requisites)
+    - [TADbit API](#tadbit-api)
+    - [TADbit tools](#tadbit-tools)
+    - [Virtual research environment](#virtual-research-environment)
+- [Course Timetable](#course-timetable)
+- [Course material](#course-material)
 
 ## Course description
 
@@ -82,7 +82,7 @@ _For now TADbit tool is not incuded in the general documetation, as it is still 
 #### Virtual research environment
 
 <p>
-<img align="left" src=https://www.irbbarcelona.org/sites/default/files/news/2017/07/mug2.jpg?raw=True width="160">
+<img align="right" src=https://www.irbbarcelona.org/sites/default/files/news/2017/07/mug2.jpg?raw=True width="160">
 
 With small datasets TADbit core pipeline can be runned through a new Virtual Research Environment ([VRE](https://vre.multiscalegenomics.eu/workspace/)), hosted by the [MuG project](https://www.multiscalegenomics.eu/). 
 
@@ -90,7 +90,9 @@ This might also be the best place to try TADkit for visualizing genomes in 3D to
 
 </p>
 
-## Course Timetable (provisional)
+## Course Timetable
+
+**(provisional)**
 
 |  **Day #1**  |  **Monday, May 21st** |
 |----|----|
